@@ -30,7 +30,8 @@ Follow the instructions above in the installation section to get the application
 
 See the video for a short demonstration of the app's functionality.
 
-#README-generator.mp4
+
+(https://watch.screencastify.com/v/EmbZcIaxbWWyaDLNksE3)
 
 ## License
 
