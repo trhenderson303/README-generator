@@ -31,7 +31,11 @@ Follow the instructions above in the installation section to get the application
 See the video for a short demonstration of the app's functionality.
 
 
-(https://watch.screencastify.com/v/EmbZcIaxbWWyaDLNksE3)
+
+https://github.com/trhenderson303/README-generator/assets/132783253/17c0fb7d-2ac5-4967-a86e-45c253274027
+
+
+
 
 ## License
 
